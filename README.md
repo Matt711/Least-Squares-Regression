@@ -1,2 +1,2 @@
 # Project4
-MA402 Project 4
+Project for the course MA402: Scientific Computing Problems in/related-to Least Squares Regression
